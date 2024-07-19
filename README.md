@@ -3,7 +3,7 @@ test_project
 
 
 [6. Помощь](#mnu_db_help)
-[О программе](#mnu_db_about)
+- [О программе](#mnu_db_about)
 
 ### Это тестовый проект
 
